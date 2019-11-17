@@ -43,7 +43,7 @@ class Directory extends React.Component {
           size: 'large',
           id: 5,
           action: 'join now',
-          linkUrl: 'shop/forums'
+          linkUrl: 'forums'
         }
       ]
     }
