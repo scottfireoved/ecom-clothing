@@ -31,7 +31,7 @@ class Directory extends React.Component {
         },
         {
           title: 'releases',
-          imageUrl: 'https://www.quadratec.com/sites/default/files/styles/product_zoomed/public/product_images/bestop_rhino_rack_for_sunrider_with_hardtop_for_jk_4dr.jpg',
+          imageUrl: 'https://www.4wheelparts.com/the-dirt/wp-content/uploads/sites/3/2019/06/Bestop-Core-Doors-Lower-Panel.jpg',
           size: 'large',
           id: 4,
           action: 'shop now',
