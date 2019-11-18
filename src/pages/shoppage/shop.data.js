@@ -88,119 +88,121 @@ const SHOP_DATA = [
         name: 'Alternator',
         imageUrl: 'https://www.quadratec.com/sites/default/files/styles/product_zoomed/public/product_images/Mean_Green_MG1584_Alternator.jpg',
         price: 450
-      },
-      {
-        id: 14,
-        name: 'Nike Red High Tops',
-        imageUrl: 'https://www.quadratec.com/sites/default/files/styles/product_zoomed/public/product_images/Magnaflow-axle-back-black-15160-01.jpg',
-        price: 160
-      },
-      {
-        id: 15,
-        name: 'Nike Brown High Tops',
-        imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
-        price: 160
-      },
-      {
-        id: 16,
-        name: 'Air Jordan Limited',
-        imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
-        price: 190
-      },
-      {
-        id: 17,
-        name: 'Timberlands',
-        imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
-        price: 200
       }
-    ]
-  },
-  {
-    id: 3,
-    title: 'Accessories',
-    routeName: 'accessories',
-    items: [
-      {
-        id: 18,
-        name: 'Black Jean Shearling',
-        imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
-        price: 125
-      },
-      {
-        id: 19,
-        name: 'Blue Jean Jacket',
-        imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
-        price: 90
-      },
-      {
-        id: 20,
-        name: 'Grey Jean Jacket',
-        imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
-        price: 90
-      },
-      {
-        id: 21,
-        name: 'Brown Shearling',
-        imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
-        price: 165
-      },
-      {
-        id: 22,
-        name: 'Tan Trench',
-        imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
-        price: 185
-      }
-    ]
-  },
-  {
-    id: 4,
-    title: 'Tires',
-    routeName: 'tires',
-    items: [
-      {
-        id: 23,
-        name: 'Blue Tanktop',
-        imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
-        price: 25
-      },
-      {
-        id: 24,
-        name: 'Floral Blouse',
-        imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
-        price: 20
-      },
-      {
-        id: 25,
-        name: 'Floral Dress',
-        imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
-        price: 80
-      },
-      {
-        id: 26,
-        name: 'Red Dots Dress',
-        imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
-        price: 80
-      },
-      {
-        id: 27,
-        name: 'Striped Sweater',
-        imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
-        price: 45
-      },
-      {
-        id: 28,
-        name: 'Yellow Track Suit',
-        imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
-        price: 135
-      },
-      {
-        id: 29,
-        name: 'White Blouse',
-        imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
-        price: 20
-      }
+      // ,
+      // {
+      //   id: 14,
+      //   name: 'Nike Red High Tops',
+      //   imageUrl: 'https://www.quadratec.com/sites/default/files/styles/product_zoomed/public/product_images/Magnaflow-axle-back-black-15160-01.jpg',
+      //   price: 160
+      // },
+      // {
+      //   id: 15,
+      //   name: 'Nike Brown High Tops',
+      //   imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
+      //   price: 160
+      // },
+      // {
+      //   id: 16,
+      //   name: 'Air Jordan Limited',
+      //   imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
+      //   price: 190
+      // },
+      // {
+      //   id: 17,
+      //   name: 'Timberlands',
+      //   imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
+      //   price: 200
+      // }
     ]
   }
+  // ,
+  // {
+  //   id: 3,
+  //   title: 'Accessories',
+  //   routeName: 'accessories',
+  //   items: [
+  //     {
+  //       id: 18,
+  //       name: 'Black Jean Shearling',
+  //       imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+  //       price: 125
+  //     },
+  //     {
+  //       id: 19,
+  //       name: 'Blue Jean Jacket',
+  //       imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+  //       price: 90
+  //     },
+  //     {
+  //       id: 20,
+  //       name: 'Grey Jean Jacket',
+  //       imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+  //       price: 90
+  //     },
+  //     {
+  //       id: 21,
+  //       name: 'Brown Shearling',
+  //       imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+  //       price: 165
+  //     },
+  //     {
+  //       id: 22,
+  //       name: 'Tan Trench',
+  //       imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
+  //       price: 185
+  //     }
+  //   ]
+  // },
+  // {
+  //   id: 4,
+  //   title: 'Tires',
+  //   routeName: 'tires',
+  //   items: [
+  //     {
+  //       id: 23,
+  //       name: 'Blue Tanktop',
+  //       imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+  //       price: 25
+  //     },
+  //     {
+  //       id: 24,
+  //       name: 'Floral Blouse',
+  //       imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+  //       price: 20
+  //     },
+  //     {
+  //       id: 25,
+  //       name: 'Floral Dress',
+  //       imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+  //       price: 80
+  //     },
+  //     {
+  //       id: 26,
+  //       name: 'Red Dots Dress',
+  //       imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+  //       price: 80
+  //     },
+  //     {
+  //       id: 27,
+  //       name: 'Striped Sweater',
+  //       imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
+  //       price: 45
+  //     },
+  //     {
+  //       id: 28,
+  //       name: 'Yellow Track Suit',
+  //       imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
+  //       price: 135
+  //     },
+  //     {
+  //       id: 29,
+  //       name: 'White Blouse',
+  //       imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
+  //       price: 20
+  //     }
+  //   ]
+  // }
 ];
 
 export default SHOP_DATA;
